@@ -56,6 +56,10 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
   - **[PeerDrop](https://github.com/SahilRajput2266/PeerDrop)** — Zero-knowledge browser-to-browser P2P encrypted file sharing and direct binary streaming over WebRTC DataChannels.
   - **[HookRelay](https://github.com/SahilRajput2266/HookRelay)** — Distributed real-time webhook inspector, event replay forwarder, and HTTP payload debugger.
   - **[GitPulse CLI](https://github.com/SahilRajput2266/GitPulse)** — Zero-dependency interactive terminal Git analytics engine, contributor impact leaderboard, and code churn hotspot analyzer.
+  - **[DeskPulse](https://github.com/SahilRajput2266/DeskPulse)** — Omnichannel support desk & real-time SLA dispatcher with countdown breach monitors and live agent chat.
+  - **[FlowQueue](https://github.com/SahilRajput2266/FlowQueue)** — Distributed in-memory background job queue with concurrency pools, exponential backoff, and DLQ telemetry.
+  - **[VaultLink](https://github.com/SahilRajput2266/VaultLink)** — Zero-knowledge client-side AES-256-GCM encrypted secret sharing with instant burn-after-reading.
+  - **[TracePulse](https://github.com/SahilRajput2266/TracePulse)** — High-throughput real-time log streaming tail with live regex search, severity filters, and error spike surge detectors.
   - **[JobOrbit](https://github.com/SahilRajput2266/JobOrbit)** — Full-featured career search engine and applicant tracking ecosystem (ATS) with live application pipeline analytics.
   - **ApexERP & NexusCRM** — Enterprise-grade Resource Planning and Sales CRM suite with multi-warehouse inventory, automated invoicing, RBAC security, and real-time financial reporting. *(Enterprise NDA)*
 - 🌱 **Diving Deep Into:** Distributed System Design, Microservices Architecture, Redis In-Memory Caching, and Next.js 15 App Router.
@@ -252,6 +256,102 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
       <div align="center">
         <a href="https://github.com/SahilRajput2266/GitPulse">
           <img src="https://img.shields.io/badge/Explore_GitPulse_Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitPulse" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎧 DeskPulse</h3>
+      <p align="center"><strong>Omnichannel Support Desk & Live SLA Dispatcher</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Transport-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/SLA-Real--Time_Dispatch-EF4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI-Obsidian_Glass-38BDF8?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Dynamic Priority Queuing:</b> Auto-triage incoming tickets by urgency, tier, and department.</li>
+        <li><b>Live SLA Countdown Timers:</b> Real-time ticking breaches alert engineers before contract deadlines lapse.</li>
+        <li><b>Canned Snippet Engine:</b> Instant hotkey responses for rapid customer query resolution.</li>
+        <li><b>Real-Time Customer Chat:</b> Bi-directional agent-customer WebSocket messaging with agent presence status.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>Vanilla CSS</code> &bull; <code>HTML5</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/DeskPulse">
+          <img src="https://img.shields.io/badge/Explore_DeskPulse_Repository-EF4444?style=for-the-badge&logo=github&logoColor=white" alt="Explore DeskPulse" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ FlowQueue</h3>
+      <p align="center"><strong>Distributed In-Memory Job Queue & DLQ Monitor</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Queue-Priority_%26_Backoff-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Resilience-Dead_Letter_Queue-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Real--Time-Live_Dashboard-818CF8?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Concurrency Pools:</b> Regulated worker pools processing background tasks with configurable concurrency limits.</li>
+        <li><b>Exponential Retry Backoff:</b> Automatic retry scheduler for transient external API failures.</li>
+        <li><b>Dead-Letter Queue (DLQ):</b> Quarantines poisoned tasks with full error stack traces and manual 1-click retry.</li>
+        <li><b>Live Throughput Telemetry:</b> Real-time WebSocket emission of job throughput, completed tasks, and processing latency.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>Concurrency Engine</code> &bull; <code>EventEmitters</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/FlowQueue">
+          <img src="https://img.shields.io/badge/Explore_FlowQueue_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore FlowQueue" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 VaultLink</h3>
+      <p align="center"><strong>Zero-Knowledge Encrypted Secret Sharing with Self-Destruct</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Encryption-AES--256--GCM-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Privacy-Zero--Knowledge-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Security-Burn_After_Reading-EF4444?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Client-Side AES-256-GCM:</b> Secrets are encrypted in-browser before transmission; raw keys never reach the server.</li>
+        <li><b>Burn-After-Reading:</b> Links self-destruct from database memory immediately upon the first view.</li>
+        <li><b>TTL Expiration Windows:</b> Automatic destruction after 1 hour, 24 hours, or 7 days if unread.</li>
+        <li><b>Access Audit Trails:</b> Real-time confirmation logs verifying when confidential payloads were consumed.</li>
+      </ul>
+      <p align="center">
+        <code>Web Crypto API</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>AES-GCM</code> &bull; <code>Vanilla CSS</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/VaultLink">
+          <img src="https://img.shields.io/badge/Explore_VaultLink_Repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore VaultLink" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 TracePulse</h3>
+      <p align="center"><strong>Real-Time Log Stream Tailer & Anomaly Spike Detector</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Streaming-tail_--f_Engine-F97316?style=flat-square" />
+        <img src="https://img.shields.io/badge/Monitoring-Error_Spike_Alerts-EF4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/Filtering-Live_Regex-38BDF8?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>High-Throughput Streaming:</b> WebSocket broadcast of continuous system, server, and access events.</li>
+        <li><b>Instant Regex Filtering:</b> Live substring matching and severity toggles (ERROR, WARN, INFO, DEBUG).</li>
+        <li><b>Error Spike Surge Detector:</b> Automatic alert banner triggering when error frequency breaches thresholds.</li>
+        <li><b>Audit Export:</b> 1-click snapshot download of filtered diagnostic streams for developer post-mortems.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>Log Tailer</code> &bull; <code>Vanilla JS</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/TracePulse">
+          <img src="https://img.shields.io/badge/Explore_TracePulse_Repository-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Explore TracePulse" />
         </a>
       </div>
     </td>
