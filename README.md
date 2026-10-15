@@ -60,6 +60,10 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
   - **[FlowQueue](https://github.com/SahilRajput2266/FlowQueue)** — Distributed in-memory background job queue with concurrency pools, exponential backoff, and DLQ telemetry.
   - **[VaultLink](https://github.com/SahilRajput2266/VaultLink)** — Zero-knowledge client-side AES-256-GCM encrypted secret sharing with instant burn-after-reading.
   - **[TracePulse](https://github.com/SahilRajput2266/TracePulse)** — High-throughput real-time log streaming tail with live regex search, severity filters, and error spike surge detectors.
+  - **[UptimePulse](https://github.com/SahilRajput2266/UptimePulse)** — Self-hosted microservice uptime monitor, response latency tracker & public incident status page.
+  - **[MockForge](https://github.com/SahilRajput2266/MockForge)** — Instant mock REST API & schema payload simulator with latency jitter and live WebSocket request stream.
+  - **[CronCraft](https://github.com/SahilRajput2266/CronCraft)** — Visual cron expression builder, human-readable translator & scheduled job dispatcher.
+  - **[CodeVault](https://github.com/SahilRajput2266/CodeVault)** — Local-first developer code snippet manager, syntax highlighter & markdown cheat-sheet exporter.
   - **[JobOrbit](https://github.com/SahilRajput2266/JobOrbit)** — Full-featured career search engine and applicant tracking ecosystem (ATS) with live application pipeline analytics.
   - **ApexERP & NexusCRM** — Enterprise-grade Resource Planning and Sales CRM suite with multi-warehouse inventory, automated invoicing, RBAC security, and real-time financial reporting. *(Enterprise NDA)*
 - 🌱 **Diving Deep Into:** Distributed System Design, Microservices Architecture, Redis In-Memory Caching, and Next.js 15 App Router.
@@ -352,6 +356,102 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
       <div align="center">
         <a href="https://github.com/SahilRajput2266/TracePulse">
           <img src="https://img.shields.io/badge/Explore_TracePulse_Repository-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Explore TracePulse" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⏱️ UptimePulse</h3>
+      <p align="center"><strong>Microservice Uptime Monitor & Public Status Page</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Transport-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Uptime-99.9%25_SLA-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Metrics-Latency_Sparklines-38BDF8?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Sub-Second Health Probing:</b> Continuous ping intervals testing microservice endpoints for HTTP 2xx/4xx/5xx codes.</li>
+        <li><b>Real-Time Sparkline Histograms:</b> Vector slices rendering rolling latency distributions with threshold warnings.</li>
+        <li><b>SLA Availability Engine:</b> Rolling 30-day percentage uptime calculation with zero server storage overhead.</li>
+        <li><b>Incident Resolution Logs:</b> Public incident records with transparent root-cause and post-mortem notes.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>HTTP Probing</code> &bull; <code>Glassmorphism</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/UptimePulse">
+          <img src="https://img.shields.io/badge/Explore_UptimePulse_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore UptimePulse" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ MockForge</h3>
+      <p align="center"><strong>Instant Mock REST API & Schema Payload Simulator</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Engine-Dynamic_Router-818CF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Simulation-Latency_Jitter-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Inspector-WebSocket_Feed-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Instant Route Provisioning:</b> Define arbitrary mock endpoints on the fly (e.g. <code>/api/mock/products</code>).</li>
+        <li><b>Latency & Error Simulation:</b> Inject realistic network jitter (50ms–2000ms) and test edge error codes (400, 401, 500).</li>
+        <li><b>Live Request Stream:</b> WebSocket telemetry inspecting incoming headers, queries, client IPs, and latencies.</li>
+        <li><b>1-Click Sharing:</b> Instant clipboard copy of mock endpoint URLs for frontend team collaboration.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>REST APIs</code> &bull; <code>JSON Schema</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/MockForge">
+          <img src="https://img.shields.io/badge/Explore_MockForge_Repository-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore MockForge" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⏰ CronCraft</h3>
+      <p align="center"><strong>Visual Cron Expression Builder & Job Dispatcher</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Parser-Cron_Grammar-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Translation-Human_English-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Telemetry-Live_Scheduler-38BDF8?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Human-Readable Translation:</b> Translates 5-part cron syntax into natural English with instant feedback.</li>
+        <li><b>Next 5 Executions Forecast:</b> Accurately projects upcoming trigger timestamps across global UTC timezones.</li>
+        <li><b>Background Job Manager:</b> Register recurring task triggers, pause/resume workers, and track execution counts.</li>
+        <li><b>Real-Time Event Ticker:</b> WebSocket streaming ticker recording execution status, timestamps, and job latencies.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>Cron Parser</code> &bull; <code>Vanilla JS</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/CronCraft">
+          <img src="https://img.shields.io/badge/Explore_CronCraft_Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Explore CronCraft" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 CodeVault</h3>
+      <p align="center"><strong>Local-First Developer Snippet Manager & Markdown Exporter</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Storage-Local--First-0EA5E9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Highlighting-Highlight.js-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Export-Markdown_Cheatsheet-6366F1?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Multi-Token Search:</b> Real-time filtering across snippet titles, domain tags, and raw syntax without latency.</li>
+        <li><b>Multi-Language Syntax Engine:</b> Highlight.js integration for JS/TS, SQL, YAML, Docker, Bash, and Python.</li>
+        <li><b>1-Click Copy & Tags:</b> Instant clipboard copy with visual feedback and domain taxonomy (#Docker, #Redis).</li>
+        <li><b>Markdown Cheat-Sheet Exporter:</b> 1-click download of the complete vault as a GitHub-ready markdown document.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Highlight.js</code> &bull; <code>Markdown Exporter</code> &bull; <code>Vanilla CSS</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/CodeVault">
+          <img src="https://img.shields.io/badge/Explore_CodeVault_Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore CodeVault" />
         </a>
       </div>
     </td>
