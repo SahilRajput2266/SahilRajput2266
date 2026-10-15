@@ -53,6 +53,9 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
   - **Zavio** — Titanium-grade real-time messaging ecosystem featuring sub-8ms edge WebSockets, dual-mode glassmorphism, multiplayer minigames, and 1-click PWA mobile install. *(Private Production)*
   - **[PulseChat](https://github.com/SahilRajput2266/PulseChat)** — Multi-tenant WhatsApp Web platform enabling team-wide messaging from unified or individual numbers with strict zero-leak chat isolation and permanent document archiving.
   - **[SyncBoard](https://github.com/SahilRajput2266/SyncBoard)** — High-velocity real-time collaborative whiteboard with live multiplayer cursors, quadratic path smoothing, and zero-config room routing.
+  - **[PeerDrop](https://github.com/SahilRajput2266/PeerDrop)** — Zero-knowledge browser-to-browser P2P encrypted file sharing and direct binary streaming over WebRTC DataChannels.
+  - **[HookRelay](https://github.com/SahilRajput2266/HookRelay)** — Distributed real-time webhook inspector, event replay forwarder, and HTTP payload debugger.
+  - **[GitPulse CLI](https://github.com/SahilRajput2266/GitPulse)** — Zero-dependency interactive terminal Git analytics engine, contributor impact leaderboard, and code churn hotspot analyzer.
   - **[JobOrbit](https://github.com/SahilRajput2266/JobOrbit)** — Full-featured career search engine and applicant tracking ecosystem (ATS) with live application pipeline analytics.
   - **ApexERP & NexusCRM** — Enterprise-grade Resource Planning and Sales CRM suite with multi-warehouse inventory, automated invoicing, RBAC security, and real-time financial reporting. *(Enterprise NDA)*
 - 🌱 **Diving Deep Into:** Distributed System Design, Microservices Architecture, Redis In-Memory Caching, and Next.js 15 App Router.
@@ -182,24 +185,73 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧪 Open-Source Lab</h3>
-      <p align="center"><strong>Experimental Developer Tooling & Micro-Architectures</strong></p>
+      <h3 align="center">🔒 PeerDrop</h3>
+      <p align="center"><strong>Zero-Knowledge P2P Encrypted File Sharing via WebRTC</strong></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Ecosystem-Micro--Tools-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Actively_Shipping-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Protocol-WebRTC_DataChannel-10B981?style=flat-square&logo=webrtc&logoColor=white" />
+        <img src="https://img.shields.io/badge/Privacy-Zero_Server_Storage-38BDF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Signaling-WebSocket_Mesh-010101?style=flat-square" />
       </p>
       <ul>
-        <li><b>Distributed Webhooks & Queue Relays:</b> Low-latency asynchronous messaging and failure recovery tests.</li>
-        <li><b>WebRTC P2P Data Channels:</b> Browser-to-browser direct streams and zero-knowledge encrypted payloads.</li>
-        <li><b>Developer CLI Tools:</b> Streamlined command-line productivity utilities built on modern Node.js and TypeScript.</li>
-        <li><b>Algorithmic Playground:</b> Real-time state machines, tree structures, and graph theory implementations.</li>
+        <li><b>Direct Browser P2P Tunnel:</b> Zero intermediary server caching — files stream directly device-to-device.</li>
+        <li><b>Chunked Binary Streaming:</b> Slices payloads into 64KB binary chunks with automatic buffer backpressure control.</li>
+        <li><b>Cross-Platform Pairing:</b> Instant device connection across Android, iOS, Windows, and Mac using a 6-digit room PIN.</li>
+        <li><b>Real-Time Radar HUD:</b> Cyberpunk radar animation, live transfer speed (MB/s), and auto-download on reassembly.</li>
       </ul>
       <p align="center">
-        <code>TypeScript</code> &bull; <code>WebSockets</code> &bull; <code>WebRTC</code> &bull; <code>Redis</code> &bull; <code>Docker</code>
+        <code>WebRTC</code> &bull; <code>RTCDataChannel</code> &bull; <code>Node.js</code> &bull; <code>Socket.io</code> &bull; <code>JavaScript</code>
       </p>
       <div align="center">
-        <a href="https://github.com/SahilRajput2266?tab=repositories">
-          <img src="https://img.shields.io/badge/Browse_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+        <a href="https://github.com/SahilRajput2266/PeerDrop">
+          <img src="https://img.shields.io/badge/Explore_PeerDrop_Repository-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore PeerDrop" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 HookRelay</h3>
+      <p align="center"><strong>Real-Time Distributed Webhook Inspector & Relay Engine</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Engine-Node.js_%26_Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stream-WebSocket_Broadcast-010101?style=flat-square" />
+        <img src="https://img.shields.io/badge/Forwarder-HTTP_Relay-A855F7?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Live Webhook Interceptor:</b> Generates unique endpoint URLs that intercept and inspect POST/GET/PUT payloads in real time.</li>
+        <li><b>Deep Payload & Header Inspector:</b> Formatted JSON view, complete HTTP headers, query parameters, and client IP.</li>
+        <li><b>Event Forwarding Relay:</b> Dispatches intercepted webhooks directly to local development servers with latency benchmarks.</li>
+        <li><b>1-Click Event Simulator:</b> Instantly triggers mock Stripe, GitHub, and Shopify webhooks for rapid testing.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>REST APIs</code> &bull; <code>Vanilla CSS</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/HookRelay">
+          <img src="https://img.shields.io/badge/Explore_HookRelay_Repository-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore HookRelay" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ GitPulse CLI</h3>
+      <p align="center"><strong>Interactive Terminal Git Analytics & Code Churn Visualizer</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Runner-npx_gitpulse-38BDF8?style=flat-square&logo=npm&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deps-Zero_Dependencies-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Platform-Cross_Platform-F59E0B?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Contributor Leaderboard:</b> Ranked breakdown of author commits, impact percentages, and dynamic ASCII progress bars.</li>
+        <li><b>File Churn Hotspots:</b> Detects frequently edited files to spotlight architectural bottlenecks and tech debt.</li>
+        <li><b>30-Day Commit Rhythm:</b> Terminal ASCII frequency chart mapping development velocity over the past 30 days.</li>
+        <li><b>Zero-Dependency Execution:</b> Runs on native Node.js standard library in under 50ms with <code>--json</code> CI support.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Git CLI</code> &bull; <code>ANSI Engine</code> &bull; <code>NPM Executable</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/GitPulse">
+          <img src="https://img.shields.io/badge/Explore_GitPulse_Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitPulse" />
         </a>
       </div>
     </td>
