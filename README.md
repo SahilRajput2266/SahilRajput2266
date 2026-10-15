@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Hero Banner (SVG) -->
 <img src="./profile-banner.svg" alt="Sahil Chauhan - Full Stack Developer Banner" width="100%" />
@@ -37,7 +37,7 @@
 
 ---
 
-### ðŸ‘¨â€ðŸ’» `01 // SYSTEM OVERVIEW`
+### 👨‍💻 `01 // SYSTEM OVERVIEW`
 
 ```yaml
 Developer: Sahil Chauhan (Sahil Rajput)
@@ -45,33 +45,33 @@ Title: Full-Stack Software Engineer & Digital Architect
 Core Stack: React.js, Next.js, Node.js, Express, MongoDB, Socket.IO, TypeScript
 Passions: Ultra-low latency communication, intuitive UI/UX, and robust distributed backends
 Philosophy: "Engineered for speed, built for scale, crafted with precision."
-Location: India ðŸ‡®ðŸ‡³
-Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ðŸš€
+Location: India 🇮🇳
+Availability: Open for High-Impact Roles, Collaborations & Scalable Projects 🚀
 ```
 
-- ðŸ”­ **Currently Pioneering:**
-  - **[Zavio](https://github.com/SahilRajput2266/Zavio)** â€” Titanium-grade real-time messaging ecosystem featuring sub-8ms edge WebSockets, dual-mode glassmorphism, multiplayer minigames, and 1-click PWA mobile install.
-  - **[PulseChat](https://github.com/SahilRajput2266/PulseChat)** â€” Multi-tenant WhatsApp Web platform enabling team-wide messaging from unified or individual numbers with strict zero-leak chat isolation and permanent document archiving.
-  - **[JobOrbit](https://github.com/SahilRajput2266/JobOrbit)** â€” Full-featured career search engine and applicant tracking ecosystem (ATS) with live application pipeline analytics.
-  - **[ApexERP & NexusCRM](https://github.com/SahilRajput2266)** â€” Enterprise-grade Resource Planning and Sales CRM suite with multi-warehouse inventory, automated invoicing, RBAC security, and real-time financial reporting.
-- ðŸŒ± **Diving Deep Into:** Distributed System Design, Microservices Architecture, Redis In-Memory Caching, and Next.js 15 App Router.
-- ðŸ’¬ **Ask Me About:** MERN Stack, WhatsApp Web APIs (Baileys), ERP/CRM architecture, WebSocket clustering, RESTful APIs, Tailwind CSS animations, and authentication workflows.
-- âš¡ **Fun Fact:** I don't just write code â€” I build digital engines where performance meets luxury aesthetics.
+- 🔭 **Currently Pioneering:**
+  - **Zavio** — Titanium-grade real-time messaging ecosystem featuring sub-8ms edge WebSockets, dual-mode glassmorphism, multiplayer minigames, and 1-click PWA mobile install. *(Private Production)*
+  - **[PulseChat](https://github.com/SahilRajput2266/PulseChat)** — Multi-tenant WhatsApp Web platform enabling team-wide messaging from unified or individual numbers with strict zero-leak chat isolation and permanent document archiving.
+  - **[JobOrbit](https://github.com/SahilRajput2266/JobOrbit)** — Full-featured career search engine and applicant tracking ecosystem (ATS) with live application pipeline analytics.
+  - **ApexERP & NexusCRM** — Enterprise-grade Resource Planning and Sales CRM suite with multi-warehouse inventory, automated invoicing, RBAC security, and real-time financial reporting. *(Enterprise NDA)*
+- 🌱 **Diving Deep Into:** Distributed System Design, Microservices Architecture, Redis In-Memory Caching, and Next.js 15 App Router.
+- 💬 **Ask Me About:** MERN Stack, WhatsApp Web APIs (Baileys), ERP/CRM architecture, WebSocket clustering, RESTful APIs, Tailwind CSS animations, and authentication workflows.
+- ⚡ **Fun Fact:** I don't just write code — I build digital engines where performance meets luxury aesthetics.
 
 ---
 
-### ðŸš€ `02 // FEATURED FLAGSHIP REPOSITORIES`
+### 🚀 `02 // FEATURED FLAGSHIP REPOSITORIES`
 
 <div align="center">
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">âš¡ Zavio</h3>
+      <h3 align="center">⚡ Zavio</h3>
       <p align="center"><strong>High-Velocity Real-Time Messaging & Multiplayer Social Hub</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Version-v2.4_Live-10B981?style=flat-square" />
         <img src="https://img.shields.io/badge/Latency-%3C_8ms-38BDF8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Security-Zero_Telemetry-818CF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Private_Production-475569?style=flat-square" />
       </p>
       <ul>
         <li><b>Instant WebSockets:</b> Sub-millisecond synchronous message delivery, live presence ticks, typing indicators.</li>
@@ -83,13 +83,11 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ð�
         <code>React 18</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>MongoDB</code> &bull; <code>TailwindCSS</code> &bull; <code>Vite</code>
       </p>
       <div align="center">
-        <a href="https://github.com/SahilRajput2266/Zavio">
-          <img src="https://img.shields.io/badge/Explore_Zavio_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Zavio" />
-        </a>
+        <img src="https://img.shields.io/badge/Access-Private_Repository-1E293B?style=for-the-badge&logo=lock&logoColor=94A3B8" alt="Private Repository" />
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">ðŸ’¬ PulseChat</h3>
+      <h3 align="center">💬 PulseChat</h3>
       <p align="center"><strong>Multi-Tenant WhatsApp Web Gateway & Secure Data Vault</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Engine-Baileys_Core-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
@@ -98,7 +96,7 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ð�
       </p>
       <ul>
         <li><b>Unified WhatsApp Gateway:</b> Connect a single central business WhatsApp for multiple sub-users, or link individual personal accounts.</li>
-        <li><b>Strict Chat & Contact Privacy:</b> Complete tenant isolation â€” users cannot view each other's chats or contacts even on the same shared number.</li>
+        <li><b>Strict Chat & Contact Privacy:</b> Complete tenant isolation — users cannot view each other's chats or contacts even on the same shared number.</li>
         <li><b>Permanent Cloud Storage:</b> Secure, long-term archival for all messages, chats, images, audio notes, and document attachments (PDFs).</li>
         <li><b>Real-Time Media Engine:</b> Live delivery status ticks (sent, delivered, read), responsive contact manager, and instant lightbox media previews.</li>
       </ul>
@@ -114,7 +112,7 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ð�
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ðŸŽ¯ JobOrbit</h3>
+      <h3 align="center">🎯 JobOrbit</h3>
       <p align="center"><strong>Full-Stack Career Search & ATS Intelligence Platform</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Engine-Applicant_Tracking-2563EB?style=flat-square" />
@@ -137,7 +135,7 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ð�
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">ðŸ¢ ApexERP & NexusCRM</h3>
+      <h3 align="center">🏢 ApexERP & NexusCRM</h3>
       <p align="center"><strong>Enterprise Resource Planning & Sales Acceleration Ecosystem</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/System-ERP_Enterprise-0A66C2?style=flat-square" />
@@ -148,15 +146,13 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ð�
         <li><b>Inventory & Invoicing:</b> Multi-location stock monitoring, automated low-stock triggers, PDF invoicing, payment reconciliation.</li>
         <li><b>Visual Deal Pipeline:</b> Drag-and-drop Kanban boards with custom deal stages, probability weights, and sales forecasting.</li>
         <li><b>Role-Based Access (RBAC):</b> Granular permissions across Admin, Inventory Manager, Accountant, and Auditor roles.</li>
-        <li><b>360Â° Customer Profiles:</b> Complete contact history, call/meeting logs, email threads, and live executive KPI dashboards.</li>
+        <li><b>360° Customer Profiles:</b> Complete contact history, call/meeting logs, email threads, and live executive KPI dashboards.</li>
       </ul>
       <p align="center">
         <code>React</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>MongoDB</code> &bull; <code>Redux Toolkit</code> &bull; <code>Chart.js</code>
       </p>
       <div align="center">
-        <a href="https://github.com/SahilRajput2266">
-          <img src="https://img.shields.io/badge/Explore_Enterprise_Suite-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Enterprise Suite" />
-        </a>
+        <img src="https://img.shields.io/badge/Access-Enterprise_NDA-1E293B?style=for-the-badge&logo=lock&logoColor=94A3B8" alt="Enterprise NDA" />
       </div>
     </td>
   </tr>
@@ -165,7 +161,7 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ð�
 
 ---
 
-### ðŸ› ï¸ `03 // ARSENAL & TECH STACK`
+### 🛠️ `03 // ARSENAL & TECH STACK`
 
 <div align="center">
 
@@ -187,7 +183,7 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ð�
 
 ---
 
-### ðŸ“Š `04 // LIVE GITHUB ACTIVITY & METRICS`
+### 📊 `04 // LIVE GITHUB ACTIVITY & METRICS`
 
 <div align="center">
 
@@ -211,7 +207,7 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ð�
 
 ---
 
-### ðŸ“¬ `05 // LET'S CONNECT & COLLABORATE`
+### 📬 `05 // LET'S CONNECT & COLLABORATE`
 
 <div align="center">
 
@@ -240,11 +236,11 @@ const developer = {
   coffeeToCodeRatio: Infinity
 };
 
-console.log("Let's build something remarkable together! ðŸ’™");
+console.log("Let's build something remarkable together! 💙");
 ```
 
 <br/>
 
-<sub>Crafted with passion &bull; Â© 2026 Sahil Chauhan</sub>
+<sub>Crafted with passion &bull; © 2026 Sahil Chauhan</sub>
 
 </div>
