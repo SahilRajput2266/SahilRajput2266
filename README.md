@@ -52,6 +52,7 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
 - 🔭 **Currently Pioneering:**
   - **Zavio** — Titanium-grade real-time messaging ecosystem featuring sub-8ms edge WebSockets, dual-mode glassmorphism, multiplayer minigames, and 1-click PWA mobile install. *(Private Production)*
   - **[PulseChat](https://github.com/SahilRajput2266/PulseChat)** — Multi-tenant WhatsApp Web platform enabling team-wide messaging from unified or individual numbers with strict zero-leak chat isolation and permanent document archiving.
+  - **[SyncBoard](https://github.com/SahilRajput2266/SyncBoard)** — High-velocity real-time collaborative whiteboard with live multiplayer cursors, quadratic path smoothing, and zero-config room routing.
   - **[JobOrbit](https://github.com/SahilRajput2266/JobOrbit)** — Full-featured career search engine and applicant tracking ecosystem (ATS) with live application pipeline analytics.
   - **ApexERP & NexusCRM** — Enterprise-grade Resource Planning and Sales CRM suite with multi-warehouse inventory, automated invoicing, RBAC security, and real-time financial reporting. *(Enterprise NDA)*
 - 🌱 **Diving Deep Into:** Distributed System Design, Microservices Architecture, Redis In-Memory Caching, and Next.js 15 App Router.
@@ -153,6 +154,53 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Access-Enterprise_NDA-1E293B?style=for-the-badge&logo=lock&logoColor=94A3B8" alt="Enterprise NDA" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ SyncBoard</h3>
+      <p align="center"><strong>Real-Time Collaborative Whiteboard & Multiplayer Mesh</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Transport-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Engine-HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Smoothing-Quadratic_Curves-10B981?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Multiplayer Live Cursors:</b> Synchronous broadcast of active remote cursors with dynamic name tags and assigned user color IDs.</li>
+        <li><b>Quadratic Path Smoothing:</b> Real-time curve interpolation for silky-smooth vector drawing without jagged line artifacts.</li>
+        <li><b>Geometric Shapes & Notes:</b> Instant rectangles, circles, directional arrows, straight lines, and floating text annotations.</li>
+        <li><b>1-Click PNG Export & Undo:</b> High-resolution 300DPI canvas export and distributed multi-user history undo stack.</li>
+      </ul>
+      <p align="center">
+        <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Socket.io</code> &bull; <code>Canvas API</code> &bull; <code>Vanilla CSS</code> &bull; <code>WebSockets</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266/SyncBoard">
+          <img src="https://img.shields.io/badge/Explore_SyncBoard_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore SyncBoard" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧪 Open-Source Lab</h3>
+      <p align="center"><strong>Experimental Developer Tooling & Micro-Architectures</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Ecosystem-Micro--Tools-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Actively_Shipping-F59E0B?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Distributed Webhooks & Queue Relays:</b> Low-latency asynchronous messaging and failure recovery tests.</li>
+        <li><b>WebRTC P2P Data Channels:</b> Browser-to-browser direct streams and zero-knowledge encrypted payloads.</li>
+        <li><b>Developer CLI Tools:</b> Streamlined command-line productivity utilities built on modern Node.js and TypeScript.</li>
+        <li><b>Algorithmic Playground:</b> Real-time state machines, tree structures, and graph theory implementations.</li>
+      </ul>
+      <p align="center">
+        <code>TypeScript</code> &bull; <code>WebSockets</code> &bull; <code>WebRTC</code> &bull; <code>Redis</code> &bull; <code>Docker</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266?tab=repositories">
+          <img src="https://img.shields.io/badge/Browse_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+        </a>
       </div>
     </td>
   </tr>
