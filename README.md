@@ -1,4 +1,4 @@
-<div align="center">
+ï»¿<div align="center">
 
 <!-- Hero Banner (SVG) -->
 <img src="./profile-banner.svg" alt="Sahil Chauhan - Full Stack Developer Banner" width="100%" />
@@ -194,10 +194,10 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ðŸš
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SahilRajput2266&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080C16&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8" alt="Sahil's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SahilRajput2266&show_icons=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=080C16&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8" alt="Sahil's GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=SahilRajput2266&theme=tokyonight&hide_border=true&background=080C16&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=F8FAFC" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=SahilRajput2266&theme=tokyonight&cache_seconds=1800&hide_border=true&background=080C16&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=F8FAFC" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
   <tr>
