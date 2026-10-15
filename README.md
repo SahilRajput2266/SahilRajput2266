@@ -37,7 +37,7 @@
 
 ---
 
-### 👨‍💻 `01 // SYSTEM OVERVIEW`
+### ðŸ‘¨â€ðŸ’» `01 // SYSTEM OVERVIEW`
 
 ```yaml
 Developer: Sahil Chauhan (Sahil Rajput)
@@ -45,28 +45,28 @@ Title: Full-Stack Software Engineer & Digital Architect
 Core Stack: React.js, Next.js, Node.js, Express, MongoDB, Socket.IO, TypeScript
 Passions: Ultra-low latency communication, intuitive UI/UX, and robust distributed backends
 Philosophy: "Engineered for speed, built for scale, crafted with precision."
-Location: India 🇮🇳
-Availability: Open for High-Impact Roles, Collaborations & Scalable Projects 🚀
+Location: India ðŸ‡®ðŸ‡³
+Availability: Open for High-Impact Roles, Collaborations & Scalable Projects ðŸš€
 ```
 
-- 🔭 **Currently Pioneering:**
-  - **[Zavio](https://github.com/SahilRajput2266/Zavio)** — Titanium-grade real-time messaging ecosystem featuring sub-8ms edge WebSockets, dual-mode glassmorphism, multiplayer minigames, and 1-click PWA mobile install.
-  - **[ApexERP System](https://github.com/SahilRajput2266)** — Enterprise-grade Resource Planning suite with multi-warehouse inventory, automated invoicing, RBAC security, and real-time financial reporting.
-  - **[NexusCRM](https://github.com/SahilRajput2266)** — Customer Relationship Management platform featuring visual kanban sales pipelines, lead lifecycle tracking, and automated task dispatch.
-  - **[JobOrbit](https://github.com/SahilRajput2266/JobOrbit)** — Full-featured career search engine and applicant tracking ecosystem (ATS) with live application pipeline analytics.
-- 🌱 **Diving Deep Into:** Distributed System Design, Microservices Architecture, Redis In-Memory Caching, and Next.js 15 App Router.
-- 💬 **Ask Me About:** MERN Stack, ERP/CRM architecture, WebSocket clustering, RESTful APIs, Tailwind CSS animations, and authentication workflows.
-- ⚡ **Fun Fact:** I don't just write code — I build digital engines where performance meets luxury aesthetics.
+- ðŸ”­ **Currently Pioneering:**
+  - **[Zavio](https://github.com/SahilRajput2266/Zavio)** â€” Titanium-grade real-time messaging ecosystem featuring sub-8ms edge WebSockets, dual-mode glassmorphism, multiplayer minigames, and 1-click PWA mobile install.
+  - **[PulseChat](https://github.com/SahilRajput2266/PulseChat)** â€” Multi-tenant WhatsApp Web platform enabling team-wide messaging from unified or individual numbers with strict zero-leak chat isolation and permanent document archiving.
+  - **[JobOrbit](https://github.com/SahilRajput2266/JobOrbit)** â€” Full-featured career search engine and applicant tracking ecosystem (ATS) with live application pipeline analytics.
+  - **[ApexERP & NexusCRM](https://github.com/SahilRajput2266)** â€” Enterprise-grade Resource Planning and Sales CRM suite with multi-warehouse inventory, automated invoicing, RBAC security, and real-time financial reporting.
+- ðŸŒ± **Diving Deep Into:** Distributed System Design, Microservices Architecture, Redis In-Memory Caching, and Next.js 15 App Router.
+- ðŸ’¬ **Ask Me About:** MERN Stack, WhatsApp Web APIs (Baileys), ERP/CRM architecture, WebSocket clustering, RESTful APIs, Tailwind CSS animations, and authentication workflows.
+- âš¡ **Fun Fact:** I don't just write code â€” I build digital engines where performance meets luxury aesthetics.
 
 ---
 
-### 🚀 `02 // FEATURED FLAGSHIP REPOSITORIES`
+### ðŸš€ `02 // FEATURED FLAGSHIP REPOSITORIES`
 
 <div align="center">
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ Zavio</h3>
+      <h3 align="center">âš¡ Zavio</h3>
       <p align="center"><strong>High-Velocity Real-Time Messaging & Multiplayer Social Hub</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Version-v2.4_Live-10B981?style=flat-square" />
@@ -89,55 +89,32 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 ApexERP</h3>
-      <p align="center"><strong>Enterprise Resource Planning & Supply Chain Suite</strong></p>
+      <h3 align="center">ðŸ’¬ PulseChat</h3>
+      <p align="center"><strong>Multi-Tenant WhatsApp Web Gateway & Secure Data Vault</strong></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/System-ERP_Enterprise-0A66C2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Security-RBAC_Enforced-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Reports-Real--Time_KPIs-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Engine-Baileys_Core-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Privacy-Zero_Leak_Isolation-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Storage-Permanent_Archive-38BDF8?style=flat-square" />
       </p>
       <ul>
-        <li><b>Inventory & Warehouses:</b> Multi-location stock monitoring, automated low-stock triggers, batch SKU tracking.</li>
-        <li><b>Finance & Invoicing:</b> Automated ledger entries, tax calculations, PDF invoice generation, payment reconciliation.</li>
-        <li><b>Role-Based Access (RBAC):</b> Granular permissions across Admin, Inventory Manager, Accountant, and Auditor roles.</li>
-        <li><b>Operational Analytics:</b> Live executive dashboards with revenue velocity, expense breakdowns, and supplier margins.</li>
+        <li><b>Unified WhatsApp Gateway:</b> Connect a single central business WhatsApp for multiple sub-users, or link individual personal accounts.</li>
+        <li><b>Strict Chat & Contact Privacy:</b> Complete tenant isolation â€” users cannot view each other's chats or contacts even on the same shared number.</li>
+        <li><b>Permanent Cloud Storage:</b> Secure, long-term archival for all messages, chats, images, audio notes, and document attachments (PDFs).</li>
+        <li><b>Real-Time Media Engine:</b> Live delivery status ticks (sent, delivered, read), responsive contact manager, and instant lightbox media previews.</li>
       </ul>
       <p align="center">
-        <code>React</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>MongoDB</code> &bull; <code>Redux Toolkit</code> &bull; <code>TailwindCSS</code>
+        <code>TypeScript</code> &bull; <code>Node.js</code> &bull; <code>Baileys</code> &bull; <code>React</code> &bull; <code>Socket.io</code> &bull; <code>MongoDB</code> &bull; <code>TailwindCSS</code>
       </p>
       <div align="center">
-        <a href="https://github.com/SahilRajput2266">
-          <img src="https://img.shields.io/badge/Explore_ERP_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore ApexERP" />
+        <a href="https://github.com/SahilRajput2266/PulseChat">
+          <img src="https://img.shields.io/badge/Explore_PulseChat_Repository-25D366?style=for-the-badge&logo=github&logoColor=white" alt="Explore PulseChat" />
         </a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💼 NexusCRM</h3>
-      <p align="center"><strong>Customer Relationship Management & Sales Acceleration Platform</strong></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Pipeline-Kanban_Visual-818CF8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Leads-Lifecycle_Tracking-38BDF8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Analytics-Deal_Velocity-10B981?style=flat-square" />
-      </p>
-      <ul>
-        <li><b>Visual Deal Pipeline:</b> Drag-and-drop Kanban boards with custom deal stages and probability weights.</li>
-        <li><b>360° Lead Profiles:</b> Complete contact history, call/meeting logs, email threads, and custom fields.</li>
-        <li><b>Automated Follow-ups:</b> Scheduled reminders, activity alerts, and trigger-based email notifications.</li>
-        <li><b>Sales Forecasting:</b> Win/loss ratios, rep performance leaderboards, and quarterly projected revenue charts.</li>
-      </ul>
-      <p align="center">
-        <code>React</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>MongoDB</code> &bull; <code>REST APIs</code> &bull; <code>Chart.js</code>
-      </p>
-      <div align="center">
-        <a href="https://github.com/SahilRajput2266">
-          <img src="https://img.shields.io/badge/Explore_CRM_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore NexusCRM" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 JobOrbit</h3>
+      <h3 align="center">ðŸŽ¯ JobOrbit</h3>
       <p align="center"><strong>Full-Stack Career Search & ATS Intelligence Platform</strong></p>
       <p align="center">
         <img src="https://img.shields.io/badge/Engine-Applicant_Tracking-2563EB?style=flat-square" />
@@ -159,13 +136,36 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
         </a>
       </div>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ðŸ¢ ApexERP & NexusCRM</h3>
+      <p align="center"><strong>Enterprise Resource Planning & Sales Acceleration Ecosystem</strong></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/System-ERP_Enterprise-0A66C2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pipeline-Kanban_Visual-818CF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Security-RBAC_Enforced-10B981?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Inventory & Invoicing:</b> Multi-location stock monitoring, automated low-stock triggers, PDF invoicing, payment reconciliation.</li>
+        <li><b>Visual Deal Pipeline:</b> Drag-and-drop Kanban boards with custom deal stages, probability weights, and sales forecasting.</li>
+        <li><b>Role-Based Access (RBAC):</b> Granular permissions across Admin, Inventory Manager, Accountant, and Auditor roles.</li>
+        <li><b>360Â° Customer Profiles:</b> Complete contact history, call/meeting logs, email threads, and live executive KPI dashboards.</li>
+      </ul>
+      <p align="center">
+        <code>React</code> &bull; <code>Node.js</code> &bull; <code>Express</code> &bull; <code>MongoDB</code> &bull; <code>Redux Toolkit</code> &bull; <code>Chart.js</code>
+      </p>
+      <div align="center">
+        <a href="https://github.com/SahilRajput2266">
+          <img src="https://img.shields.io/badge/Explore_Enterprise_Suite-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Enterprise Suite" />
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
 </div>
 
 ---
 
-### 🛠️ `03 // ARSENAL & TECH STACK`
+### ðŸ› ï¸ `03 // ARSENAL & TECH STACK`
 
 <div align="center">
 
@@ -187,22 +187,22 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
 
 ---
 
-### 📊 `04 // LIVE GITHUB ACTIVITY & METRICS`
+### ðŸ“Š `04 // LIVE GITHUB ACTIVITY & METRICS`
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SahilRajput2266&show_icons=true&cache_seconds=1800&theme=tokyonight&hide_border=true&bg_color=080C16&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8" alt="Sahil's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SahilRajput2266&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080C16&title_color=38BDF8&icon_color=60A5FA&text_color=94A3B8&cache_seconds=1800" alt="Sahil's GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=SahilRajput2266&theme=tokyonight&cache_seconds=1800&hide_border=true&background=080C16&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=F8FAFC" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=SahilRajput2266&theme=tokyonight&hide_border=true&background=080C16&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=F8FAFC&type=svg" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilRajput2266&layout=compact&theme=tokyonight&hide_border=true&bg_color=080C16&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilRajput2266&layout=compact&theme=tokyonight&hide_border=true&bg_color=080C16&title_color=38BDF8&text_color=94A3B8&cache_seconds=1800" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -211,7 +211,7 @@ Availability: Open for High-Impact Roles, Collaborations & Scalable Projects �
 
 ---
 
-### 📬 `05 // LET'S CONNECT & COLLABORATE`
+### ðŸ“¬ `05 // LET'S CONNECT & COLLABORATE`
 
 <div align="center">
 
@@ -240,11 +240,11 @@ const developer = {
   coffeeToCodeRatio: Infinity
 };
 
-console.log("Let's build something remarkable together! 💙");
+console.log("Let's build something remarkable together! ðŸ’™");
 ```
 
 <br/>
 
-<sub>Crafted with passion &bull; © 2026 Sahil Chauhan</sub>
+<sub>Crafted with passion &bull; Â© 2026 Sahil Chauhan</sub>
 
 </div>
